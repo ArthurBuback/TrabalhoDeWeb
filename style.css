@@ -11,6 +11,11 @@ body{
   margin-bottom: 20px;
 }
 
+.margem{
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
 .foto{
   height: 230px;
   position: absolute;
@@ -24,9 +29,4 @@ body{
 
 b{
   font-size: 20px;
-}
-
-.margem{
-  margin-left: 90px;
-  margin-right: 90px;
 }
